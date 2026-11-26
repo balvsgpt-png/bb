@@ -1,0 +1,198 @@
+[
+  {
+    "from": "fecha parenteses",
+    "to": ")",
+    "enabled": true,
+    "category": "pontuacao",
+    "id": "rule_default_7_1793790686506"
+  },
+  {
+    "from": "abre parenteses",
+    "to": "(",
+    "enabled": true,
+    "category": "pontuacao",
+    "id": "rule_default_6_1793790686506"
+  },
+  {
+    "from": "fecha parênteses",
+    "to": ")",
+    "enabled": true,
+    "category": "pontuacao",
+    "id": "rule_default_5_1793790686506"
+  },
+  {
+    "from": "abre parênteses",
+    "to": "(",
+    "enabled": true,
+    "category": "pontuacao",
+    "id": "rule_default_4_1793790686506"
+  },
+  {
+    "from": "{fecha parênteses}",
+    "to": ")",
+    "enabled": true,
+    "category": "pontuacao",
+    "id": "rule_default_3_1793790686506"
+  },
+  {
+    "from": "{abre parênteses}",
+    "to": "(",
+    "enabled": true,
+    "category": "pontuacao",
+    "id": "rule_default_2_1793790686506"
+  },
+  {
+    "from": "podenso",
+    "to": "hipodenso",
+    "enabled": true,
+    "category": "termo_tecnico",
+    "id": "rule_default_1_1793790686506"
+  },
+  {
+    "from": "nucapsular",
+    "to": "nucleocapsular",
+    "enabled": true,
+    "category": "anatomia",
+    "id": "rule_default_0_1793790686506"
+  },
+  {
+    "from": "calcaneo",
+    "to": "calcâneo",
+    "enabled": true,
+    "category": "anatomia",
+    "id": "rule_default_0_1793272265998"
+  },
+  {
+    "from": "calcaneos",
+    "to": "calcâneos",
+    "enabled": true,
+    "category": "anatomia",
+    "id": "rule_default_1_1793272265998"
+  },
+  {
+    "from": "perihilar",
+    "to": "peri-hilar",
+    "enabled": true,
+    "category": "anatomia",
+    "id": "rule_default_2_1793272265998"
+  },
+  {
+    "from": "perihilares",
+    "to": "peri-hilares",
+    "enabled": true,
+    "category": "anatomia",
+    "id": "rule_default_3_1793272265998"
+  },
+  {
+    "from": "ileo",
+    "to": "íleo",
+    "enabled": true,
+    "category": "anatomia",
+    "id": "rule_default_4_1793272265998"
+  },
+  {
+    "from": "ileo terminal",
+    "to": "íleo terminal",
+    "enabled": true,
+    "category": "anatomia",
+    "id": "rule_default_5_1793272265998"
+  },
+  {
+    "from": "derrame pleura",
+    "to": "derrame pleural",
+    "enabled": true,
+    "category": "termo_tecnico",
+    "id": "rule_default_6_1793272265998"
+  },
+  {
+    "from": "derrame pericardo",
+    "to": "derrame pericárdico",
+    "enabled": true,
+    "category": "termo_tecnico",
+    "id": "rule_default_7_1793272265998"
+  },
+  {
+    "from": "linfonodomegalia",
+    "to": "linfonodomegalias",
+    "enabled": true,
+    "category": "termo_tecnico",
+    "id": "rule_default_8_1793272265998"
+  },
+  {
+    "from": "coledoco",
+    "to": "colédoco",
+    "enabled": true,
+    "category": "anatomia",
+    "id": "rule_default_9_1793272265998"
+  },
+  {
+    "from": "osteofito",
+    "to": "osteófitos",
+    "enabled": true,
+    "category": "termo_tecnico",
+    "id": "rule_default_10_1793272265998"
+  },
+  {
+    "from": "osteofitos marginais",
+    "to": "osteófitos marginais",
+    "enabled": true,
+    "category": "termo_tecnico",
+    "id": "rule_default_11_1793272265998"
+  },
+  {
+    "from": "atelectasia laminar",
+    "to": "atelectasias laminares",
+    "enabled": true,
+    "category": "termo_tecnico",
+    "id": "rule_default_12_1793272265998"
+  },
+  {
+    "from": "enfisema centro lobular",
+    "to": "enfisema centrolobular",
+    "enabled": true,
+    "category": "termo_tecnico",
+    "id": "rule_default_13_1793272265998"
+  },
+  {
+    "from": "espondilodiscoartrose",
+    "to": "espondilodiscoartrose",
+    "enabled": true,
+    "category": "termo_tecnico",
+    "id": "rule_default_14_1793272265998"
+  },
+  {
+    "from": "colateral porto sistemica",
+    "to": "colaterais portossistêmicas",
+    "enabled": true,
+    "category": "anatomia",
+    "id": "rule_default_15_1793272265998"
+  },
+  {
+    "from": "aorto iliaco",
+    "to": "aorto-ilíaco",
+    "enabled": true,
+    "category": "anatomia",
+    "id": "rule_default_16_1793272265998"
+  },
+  {
+    "from": "sub segmentar",
+    "to": "subsegmentar",
+    "enabled": true,
+    "category": "termo_tecnico",
+    "id": "rule_default_17_1793272265998"
+  },
+  {
+    "from": "baco",
+    "to": "baço",
+    "enabled": true,
+    "category": "anatomia",
+    "id": "rule_default_18_1793272265998"
+  },
+  {
+    "from": "figado",
+    "to": "fígado",
+    "enabled": true,
+    "category": "anatomia",
+    "id": "rule_default_19_1793272265998"
+  }
+]

@@ -1,0 +1,28 @@
+fecha parenteses -> )
+abre parenteses -> (
+fecha parênteses -> )
+abre parênteses -> (
+{fecha parênteses} -> )
+{abre parênteses} -> (
+podenso -> hipodenso
+nucapsular -> nucleocapsular
+calcaneo -> calcâneo
+calcaneos -> calcâneos
+perihilar -> peri-hilar
+perihilares -> peri-hilares
+ileo -> íleo
+ileo terminal -> íleo terminal
+derrame pleura -> derrame pleural
+derrame pericardo -> derrame pericárdico
+linfonodomegalia -> linfonodomegalias
+coledoco -> colédoco
+osteofito -> osteófitos
+osteofitos marginais -> osteófitos marginais
+atelectasia laminar -> atelectasias laminares
+enfisema centro lobular -> enfisema centrolobular
+espondilodiscoartrose -> espondilodiscoartrose
+colateral porto sistemica -> colaterais portossistêmicas
+aorto iliaco -> aorto-ilíaco
+sub segmentar -> subsegmentar
+baco -> baço
+figado -> fígado
